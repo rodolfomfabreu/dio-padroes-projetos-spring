@@ -18,11 +18,11 @@
 - [Sobre o Projeto | About](#sobre-o-projeto--about)
 - [Funcionalidades | Features](#funcionalidades--features)
 - [Tecnologias | Technologies](#tecnologias--technologies)
-- [Estrutura | Structure]
-- [Configuração | Configuration]
-- [Instalação e Execução | Setup & Run]
-- [Rotas da API | API Routes]
-- [Autor | Author]
+- [Estrutura | Structure](#estrutura--structure)
+- [Configuração | Configuration](#configuração--configuration)
+- [Instalação e Execução | Setup & Run](#instalação-e-execução--setup--run)
+- [Rotas da API | API Routes](#rotas-da-api--api-routes)
+- [Autor | Author](#autor--author)
 
 ---
 
